@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajmalniaz
-- 👀 I’m interested in Data Analysis  
-- 🌱 I’m currently learning Python for Exploratory Data Analysis and basic programming skill development
+- 👀 I’m interested in Data Analysis, Machine Learning, and Artificial Intelligence
+- 🌱 
 
 <!---
 ajmalniaz/ajmalniaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
